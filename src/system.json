@@ -1,0 +1,23 @@
+{
+	"name": "svelte",
+	"title": "Svelte Ascension!",
+	"description": "This is a boilerplate system that initializes Svelte as a front-end framework.",
+	"version": "0.1.0",
+	"author": "aMediocreDad",
+	"minimumCoreVersion": "0.8.8",
+	"compatibleCoreVersion": "0.8.9",
+	"scripts": ["main.js"],
+	"styles": ["main.css"],
+	"languages": [
+		{
+			"lang": "en",
+			"name": "English",
+			"path": "lang/en.json"
+		}
+	],
+	"socket": true,
+	"url": "",
+	"manifest": "",
+	"download": "",
+	"license": "MIT"
+}
